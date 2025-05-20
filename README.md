@@ -7,7 +7,7 @@ This repository demonstrates the use of the **Gemma Model (2B)** with **Langchai
 ## 🛠️ Project Structure
 
 ```
-📦 Langchain_QnA_Gemma
+📦 Langchain-QnA-with-Gemma-Model
 ├── app.py              # Main application file
 ├── .env                # Environment variables
 ├── requirements.txt    # Python dependencies
